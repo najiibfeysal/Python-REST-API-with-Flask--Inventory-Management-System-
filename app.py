@@ -1,3 +1,4 @@
+# Inventory Management API
 from flask import Flask, request, jsonify
 import requests
 
